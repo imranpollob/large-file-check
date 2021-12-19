@@ -6,7 +6,7 @@ GitHub blocks pushes that exceed 100 MB.
 
 To track files beyond this limit, you must use Git Large File Storage (Git LFS). 
 
-(Reference)[https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits]
+[Reference](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits)
 
 Install
 ```bash
